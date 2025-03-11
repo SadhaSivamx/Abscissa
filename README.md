@@ -6,7 +6,7 @@ Abscissa is a video classification and robotic arm control system that integrate
 
 The datasets used in this project are sourced from Kaggle and self-made recordings.
 
-🔗 Kaggle Dataset Link: [Download](https://drive.usercontent.google.com/download?id=1-lySFdjCJi7Pl9Nz4KSM6SIqLPTCnNTq&authuser=1)]
+🔗 Kaggle Dataset Link: [Download](https://drive.usercontent.google.com/download?id=1-lySFdjCJi7Pl9Nz4KSM6SIqLPTCnNTq&authuser=1)
 📂 Self-Made Data: [Download](https://drive.usercontent.google.com/download?id=1cjnX6skOIJwqhyfnYXCqkSPD522JTGeZ&authuser=1)
 
 ##  Output
