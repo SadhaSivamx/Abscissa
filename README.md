@@ -1,2 +1,3 @@
 ##  Abscissa
-Robust Python Library for 5-DOF Robot Arm Control
+
+Abscissa is a video classification and robotic arm control system that integrates CNN, LSTM, and ViT to analyze videos and trigger corresponding robotic movements. 
